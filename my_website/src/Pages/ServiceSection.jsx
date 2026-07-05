@@ -31,7 +31,7 @@ function ServiceSection() {
 
   return (
     <section className="relative py-24 overflow-hidden">
-      <div className="absolute inset-0 bg-[#EEF7FF] rounded-tr-[220px]"></div>
+      <div className="absolute left-0 top-0 w-[75%] h-full bg-[#EEF7FF] rounded-tr-[220px]"></div>
 
       <div className="absolute right-0 top-1/2 -translate-y-1/2 w-[420px] h-[420px] border border-dashed rounded-full"></div>
 

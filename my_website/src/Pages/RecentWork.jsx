@@ -50,7 +50,7 @@ function RecentWork() {
     <section className="relative py-24 overflow-hidden bg-white">
 
       {/* Background */}
-      <div className="absolute left-0 top-0 w-[75%] h-full bg-[#FFF7F4] rounded-tr-[220px]"></div>
+      <div className="absolute right-0 top-0 w-[75%] h-full bg-[#FFF7F4] rounded-tl-[220px]"></div>
 
       <div className="relative max-w-7xl mx-auto px-6">
 

@@ -19,17 +19,17 @@ function Header() {
 
         <div className="order-3 flex items-center justify-center gap-3 text-[#3F2B46] sm:gap-4">
           <div className="relative z-10 flex h-9 w-9 items-center justify-center rounded-full border border-[#3F2B46] sm:h-10 sm:w-10">
-           <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer">
+           <a href="https://www.facebook.com/" target="_self" rel="noopener noreferrer">
               <FaFacebookF size={22} />
             </a>
           </div>
           <div className="relative z-10 flex h-9 w-9 items-center justify-center rounded-full border border-[#3F2B46] sm:h-10 sm:w-10">
-           <a href="https://www.linkedin.com/feed/" target="_blank" rel="noopener noreferrer">
+           <a href="https://www.linkedin.com/feed/" target="_self" rel="noopener noreferrer">
               <BiLogoLinkedin size={24} />
             </a>
           </div>
           <div className="relative z-10 flex h-9 w-9 items-center justify-center rounded-full border border-[#3F2B46] sm:h-10 sm:w-10">
-          <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/" target="_self" rel="noopener noreferrer">
             <FaInstagram size={22} />
           </a>
           </div>
